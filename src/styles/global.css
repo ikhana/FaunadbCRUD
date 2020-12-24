@@ -1,0 +1,13 @@
+body{
+    background-color: rgba(153, 218, 218, 0.452);
+    padding: 10px;
+    margin: 5px;  
+    color: black; 
+    lighting-color: aqua;
+}
+form{
+    align-items: center;
+    color: black;
+}
+
+    
